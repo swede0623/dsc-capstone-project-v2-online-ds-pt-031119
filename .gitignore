@@ -2,4 +2,5 @@
 .ipynb_checkpoints
 
 *.csv
+*.pickle
 glove.twitter.27B.200d.txt

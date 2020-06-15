@@ -1,20 +1,12 @@
-Completed Project Notebook: 
-Notebook.ipynb
+Capstone Project for Flatiron School Data Science Bootcamp (Completed 2/2020)
 
-Data:
-train.csv
-test.csv
-test_labels.csv
-sample_submission.csv
 
-Kaggle stuff:
-submission_to_kaggle.ipynb
-kaggle_submission.csv
+Category: Natural Language Processing
 
-Presentation stuff:
-Presentation_Slides.pdf
-Presentation_Recording.mp4
+Programming Language: Python
 
--some pickle files are in the pickle folder
+Machine Learning Algorithms: Logistic Regression, Random Forest
 
--some notebooks I did work in before putting together the final notebook are in the scrap_paper folder
+
+* Please consult the Presentation_Recording.mp4 file for a short overview of this project
+** Full project w/code can be found in Notebook.ipynb
